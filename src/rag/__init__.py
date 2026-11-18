@@ -1,0 +1,1 @@
+"""ShopSmart RAG pipeline package."""
